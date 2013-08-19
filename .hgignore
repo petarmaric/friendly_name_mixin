@@ -2,3 +2,6 @@ syntax: glob
 .project
 .pydevproject
 *.pyc
+dist/
+build/
+friendly_name_mixin.egg-info/
