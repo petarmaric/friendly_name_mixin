@@ -1,0 +1,9 @@
+friendly_name_mixin 1.0.1 (September 30, 2013)
+
+    * Removed `mock` from setup.py `tests_require` as it's not used for testing.
+
+    * Updated README to include our Jenkins CI build status badge.
+
+friendly_name_mixin 1.0.0 (August 19, 2013)
+
+    * Initial release.
