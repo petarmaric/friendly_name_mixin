@@ -5,6 +5,9 @@ Mixin class for extracting friendly names from classes.
 
 `Continuous integration`_ is powered by `Jenkins`_.
 
+.. image:: http://ci.petarmaric.com/job/friendly_name_mixin/badge/icon
+   :target: http://ci.petarmaric.com/job/friendly_name_mixin/
+
 .. _`Continuous integration`: http://ci.petarmaric.com/job/friendly_name_mixin/
 .. _`Jenkins`: https://jenkins-ci.org/
 
