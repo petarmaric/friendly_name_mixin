@@ -32,6 +32,6 @@ setup(
     platforms='any',
     py_modules=['friendly_name_mixin'],
     setup_requires = ['nose>=1.0'],
-    tests_require = ['coverage>=3.3', 'mock>=1.0b1', 'nose>=1.0', 'nosexcover>=1.0.7'],
+    tests_require = ['coverage>=3.3', 'nose>=1.0', 'nosexcover>=1.0.7'],
     test_suite = 'nose.collector',
 )
