@@ -1,3 +1,8 @@
+friendly_name_mixin 1.0.2 (November 12, 2017)
+
+    * Removed distribute_setup.py as 'Distribute' is a now deprecated fork of
+      the 'Setuptools' project.
+
 friendly_name_mixin 1.0.1 (September 30, 2013)
 
     * Removed `mock` from setup.py `tests_require` as it's not used for testing.
