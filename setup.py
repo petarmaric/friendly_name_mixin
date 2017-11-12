@@ -9,7 +9,7 @@ if sys.version_info < (2, 6):
 
 setup(
     name='friendly_name_mixin',
-    version='1.0.1',
+    version='1.0.2',
     url='https://bitbucket.org/petar/friendly_name_mixin',
     license='BSD',
     author='Petar Maric',
