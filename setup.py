@@ -15,7 +15,7 @@ setup(
     author='Petar Maric',
     author_email='petarmaric@uns.ac.rs',
     description='Mixin class for extracting friendly names from classes',
-    long_description=open('README').read(),
+    long_description=open('README.rst').read(),
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
