@@ -8,3 +8,4 @@ friendly_name_mixin.egg-info/
 html_coverage_report/
 coverage.xml
 nosetests.xml
+.vscode/
