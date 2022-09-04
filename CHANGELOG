@@ -1,3 +1,7 @@
+friendly_name_mixin 2.0.0 (September 4, 2022)
+
+    * Ported project to Python 3.
+
 friendly_name_mixin 1.0.3 (August 28, 2019)
 
     * Migrated from Bitbucket (Mercurial) to GitHub (Git).

@@ -29,7 +29,7 @@ Usage example
     >>> class IsHTML5BetterThanFlash11OrIsItMe(FriendlyNameFromClassMixin):
     ...     answer = 'yes'
 
-    >>> print IsHTML5BetterThanFlash11OrIsItMe().name
+    >>> print(IsHTML5BetterThanFlash11OrIsItMe().name)
     Is HTML5 Better Than Flash11 Or Is It Me
 
 

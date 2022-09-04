@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='friendly_name_mixin',
-    version='1.0.3',
+    version='2.0.0',
     url='https://github.com/petarmaric/friendly_name_mixin',
     license='BSD',
     author='Petar Maric',

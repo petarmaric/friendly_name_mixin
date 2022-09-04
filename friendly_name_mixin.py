@@ -1,7 +1,7 @@
 import re
 
 
-__version__ = '1.0.3'
+__version__ = '2.0.0'
 
 
 # Based on `django.db.models.options.get_verbose_name`
